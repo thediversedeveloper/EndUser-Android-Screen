@@ -1,5 +1,3 @@
-# App-Code-Design
-
 #User Needs
 The user needs this app addresses is an inventory app, with a forgot password option for users
 
